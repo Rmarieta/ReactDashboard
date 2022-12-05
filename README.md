@@ -2,6 +2,14 @@
 
 Complete frontend implementation of a dashboard from scratch, providing a light and a dark mode, a pie chart, a bar chart, a line chart and a geography chart (generated with Nivo), as well as a calendar, a FAQ, a form, and a dashboard putting all of these visualization tools together.
 
+<br/>
+
+<p align='center'>
+<img src='./public/assets/dashboard_screenshot.png' width='80%'/>
+</p>
+
+<br/>
+
 ### Dependencies
 
 To build the app :
