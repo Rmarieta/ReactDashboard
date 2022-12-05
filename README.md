@@ -13,8 +13,9 @@ Then inside that folder, run the following to install the dependencies :
 npm install @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo react-pro-sidebar@0.7.1 @fullcalendar/interaction @fullcalendar/react
 ```
 
-### Layout of the app
+### Demo of the app
 
-<p align="center">
-<img src='./res/fly_animation.gif' alt='animation' width='50%'>
-</p>
+<video src="https://user-images.githubusercontent.com/33026272/205732170-0a413b08-8bed-4b12-b1f8-3b74e7c7c022.mp4">
+</video>
+
+
